@@ -1,2 +1,11 @@
-# HelloWorld
-First Attempt to deploy a website
+
+   
+<html>
+ 
+<body>
+  <h1>Jai You</h1>
+  <p>Just Grind and Succeed!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+ 
+</html>
